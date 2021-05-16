@@ -1,20 +1,28 @@
 # Bluetooth controlled car
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Ivoneideduarte/Bluetooth-controlled-car/blob/main/LICENSE) 
 
- ## Sobre o projeto:
- Neste projeto foi desenvolvido um carro com Arduino que será controlado via bluetooth por um aplicativo de celular desenvolvido no App Inventor. O carro inicia ligado, ou seja, seguindo em frente de forma autônoma(no próximo projeto será implementada a função para o carro seguir linhas e só depois parar ao detectar obstáculos), só que ao detectar um obstáculo à sua frente ele para e espera a conexão pelo aplicativo para ser controlado manualmente e desviar dos obstáculos, feito isso, basta desconectar do bluetooth e ele segue seu percurso normalmente até a proxima detecção de objetos.
+ ## About the project:
+ In this project a car was developed with Arduino that will be controlled via bluetooth by a mobile application developed in App Inventor. The car starts on, that is, moving forward autonomously (in the next project, the function will be implemented for the car to follow lines and only then stop when detecting obstacles), only when it detects an obstacle in front of it, it stops and waits for the connection by the application to be controlled manually and avoid obstacles, once this is done, just disconnect from the bluetooth and it follows its path normally until the next object detection.
  
- ## Material utilizado:
- 1. Arduino UNO
- 2. Kit Chassi 2wd Redondo Em Acrílico
- 3. Módulo Ponte H L298N
- 4. Sensor Ultrassônico HC-SR04
- 5. Suporte para o HC-SR04
- 6. Bluetooth RS-232 HC-05
- 7. Jumpers M-M / M-F
- 8. Chave Gangorra 2 Terminais
- 9. Suporte Duplo Para Bateria 18650
- 10. Baterias 18650 (2x)
+## Material used:
+  1. Arduino UNO
+  2. 2wd Round Acrylic Chassis Kit
+  3. L298N H Bridge Module
+  4. Ultrasonic Sensor HC-SR04
+  5. Support for the HC-SR04
+  6. Bluetooth RS-232 HC-05
+  7. M-M / M-F jumpers
+  8. Seesaw Switch 2 Terminals
+  9. Dual 18650 Battery Holder
+  10. 18650 batteries (2x)
  
- ## Circuito:
+ ## Circuit:
+ ![Web 1](https://github.com/Ivoneideduarte/Bluetooth-controlled-car/blob/main/circuit/circuito-carro_bb.png)
  
- ## Aplicatvo desenvolvido no APP Inventor:
+ ## Application developed in APP Inventor:
+  I am making the editable file available, through the link below or if you prefer, just go to the _application_ folder of my project here on github and use the ** .apk file ** and install the application directly on your phone.
+ 
+ **Access the editable file in App Inventor** [Clique aqui](https://gallery.appinventor.mit.edu/?galleryid=c840f775-388d-4f38-b372-74abe719e81a "Bluetooth Car")!
+
+ ## Author:
+ Téc. em Mecatrônoca - Ivoneide Duarte dos Santos

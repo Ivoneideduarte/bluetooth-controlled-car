@@ -20,7 +20,7 @@
  ![Web 1](https://github.com/Ivoneideduarte/Bluetooth-controlled-car/blob/main/circuit/circuito-carro_bb.png)
  
  ## Application developed in APP Inventor:
-  I am making the editable file available, through the link below or if you prefer, just go to the _application_ folder of my project here on github and use the ** .apk file ** and install the application directly on your phone.
+  I am making the editable file available, through the link below or if you prefer, just go to the _application_ folder of my project here on github and use the **.apk file** and install the application directly on your phone.
  
  **Access the editable file in App Inventor** [Clique aqui](https://gallery.appinventor.mit.edu/?galleryid=c840f775-388d-4f38-b372-74abe719e81a "Bluetooth Car")!
 

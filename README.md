@@ -17,7 +17,7 @@
   10. 18650 batteries (2x)
  
  ## Circuit:
- ![Web 1](https://github.com/Ivoneideduarte/Bluetooth-controlled-car/blob/main/circuit/circuito-carro_bb.png)
+ ![Web 1](https://github.com/Ivoneideduarte/bluetooth-controlled-car/blob/main/circuit/bluetooth-controlled-car_bb.png)
  
  ## Application developed in APP Inventor:
   I am making the editable file available, through the link below or if you prefer, just go to the _application_ folder of my project here on github and use the **.apk file** and install the application directly on your phone.
